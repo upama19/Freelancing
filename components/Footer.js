@@ -6,7 +6,7 @@ const Footer = () => {
                     <div className="container px-5 pt-1">
                         <div className="row px-5">
                             <div className="col">
-                                <h2 className="mb-4">NEPLANCER<span style={{ color: "var(--orange-ball)" }}>.</span></h2>
+                                <h2 className="mb-4">ROJGARI<span style={{ color: "var(--orange-ball)" }}>.</span></h2>
                                 <ul>
                                     <li className="mb-1"><a>Freelancers</a></li>
                                     <li><a>About</a></li>
@@ -17,7 +17,7 @@ const Footer = () => {
                                 <h2 className="mb-4">Contact Us</h2>
                                 <ul>
                                     <li className="mb-1">+(977)9861382840</li>
-                                    <li><a>www.neplancer.com</a></li>
+                                    <li><a>www.ROJGARI.com</a></li>
                                 </ul>
                             </div>
 
@@ -36,7 +36,7 @@ const Footer = () => {
                         </div>
 
                         <div className="container-fluid px-5">
-                            <p>@2021Neplancer. All rights Reserved.</p>
+                            <p>@2023Rojgari. All rights Reserved.</p>
                         </div>
                     </div>
                 </footer>

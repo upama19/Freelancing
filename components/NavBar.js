@@ -45,7 +45,7 @@ const NavBar = () => {
         <div className='container-fluid'>
           <Link href='/'>
             <a className='navbar-brand' style={{ fontWeight: 'bold' }}>
-              NEPLANCER<span style={{ color: 'var(--orange-ball)' }}>.</span>
+              ROJGARI<span style={{ color: 'var(--orange-ball)' }}>.</span>
             </a>
           </Link>
           <button
